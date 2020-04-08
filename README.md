@@ -1,4 +1,7 @@
 # python-tugas-alpro
 ALGORITMA-DAN-PEMROGRAMAN-II
 
-#[ REWRITTEN BY DEVLITTLE.CO ]
+[ REWRITTEN BY DEVLITTLE.CO ]
+
+
+Sorong, 8 April 2k19
