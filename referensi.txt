@@ -1,0 +1,4 @@
+Tugas Kampus [ ALGORITMA DAN PEMROGRAMAN 2 ] [ REWRITTEN BY DEVLITTLE.CO ]
+
+https://www.w3schools.com/python/
+https://pypi.org/project/PyMySQL/
